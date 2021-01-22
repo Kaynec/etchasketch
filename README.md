@@ -1,2 +1,2 @@
 # etchasketch
-etch a sketch project for theodinproject.com
+etch a sketch project for @theodinproject.com
